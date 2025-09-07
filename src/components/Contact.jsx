@@ -91,11 +91,3 @@ const Contact = () => {
 
 export default SectionWrapper(Contact, "contact");
 
-
-/*
-5 DSA questions-5
-2 hours web development-3
-portfolio fixed- 1 , paste link on resume 
-apply for the jobs -2 
-run that sanjeevini web app-4
-*/
