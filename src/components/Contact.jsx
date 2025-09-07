@@ -27,7 +27,7 @@ const Contact = () => {
             className="flex flex-col items-center hover:scale-110 transition-transform"
           >
             <img
-              src="/icons8-linkedin-logo-50.png"
+              src={`${import.meta.env.BASE_URL}icons8-linkedin-logo-50.png`} 
               alt="LinkedIn"
               className="w-12 h-12 object-contain mb-2"
             />
@@ -42,7 +42,7 @@ const Contact = () => {
             className="flex flex-col items-center hover:scale-110 transition-transform"
           >
             <img
-              src="/icons8-github-50.png"
+              src={`${import.meta.env.BASE_URL}icons8-github-50.png`}
               alt="GitHub"
               className="w-12 h-12 object-contain mb-2"
             />
@@ -55,7 +55,7 @@ const Contact = () => {
             className="flex flex-col items-center hover:scale-110 transition-transform"
           >
             <img
-              src="/icons8-gmail-logo-64.png"
+              src={`${import.meta.env.BASE_URL}icons8-gmail-logo-64.png`}
               alt="Gmail"
               className="w-12 h-12 object-contain mb-2"
             />
@@ -69,7 +69,7 @@ const Contact = () => {
             className="flex flex-col items-center hover:scale-105 transition-transform"
           >
             <img
-              src="/icons8-download-24.png" // add a download icon in /public
+              src={`${import.meta.env.BASE_URL}icons8-download-24.png`} 
               alt="Download CV"
               className="w-12 h-12 object-contain mb-2"
             />
@@ -98,4 +98,9 @@ export default SectionWrapper(Contact, "contact");
 portfolio fixed- 1 , paste link on resume 
 apply for the jobs -2 
 run that sanjeevini web app-4
+
+
+when to resume applying
+2 projects with link
+portfolio link
 */

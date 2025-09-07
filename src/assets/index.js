@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -6,6 +6,10 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import AIHC from "./AIHC.png";
+import RTC from "./RTC.png";
+
+// technology images  
 
 import css from "./tech/css.png";
 import git from "./tech/git.png";
@@ -23,22 +27,13 @@ import express from "./tech/express.png";
 import jsp from "./tech/jsp.png";
 
 // project images
-import gkeep from "./gkeep.png";
-import book from "./bookBuy.png";
-import feed from "./feedback.png";
-import mp3 from "./mp3.png";
-import vid from "./vid.png";
-import QA from "./QA.png";
-import tnp from "./tnp.png";
-import wed from "./wed.png";
-import portf from "./portf.png";
 
 import gssoc from "./company/gssoc.png";
 import ssoc from "./company/ssoc.png";
 import acme from "./company/acme.png";
 
 export {
-  logo,
+  
   backend,
   creator,
   mobile,
@@ -55,15 +50,9 @@ export {
   reactjs,
   typescript,
 
-  book,
-  feed,
-  gkeep,
-  QA,
-  vid,
-  mp3,
-  tnp,
-  wed,
-  portf,
+
+  
+  AIHC,  RTC,
 
   gssoc,
   ssoc,

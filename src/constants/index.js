@@ -5,21 +5,17 @@ import {
   web,
   javascript,
   
+  
   html,
   css,
   reactjs,
   nodejs,
   mongodb,
   git,
-  gkeep,
-  book,
-  feed,
-  QA,
-  vid,
-  mp3,
-  tnp,
-  wed,
-  portf,
+ 
+  AIHC,
+  RTC,
+  
 
   gssoc,
   ssoc,
@@ -123,10 +119,7 @@ const technologies = [
   //   name: "Php",
   //   icon: php,
   // }, 
-  // {
-  //   name: "CodeIgniter",
-  //   icon: codigniter,
-  // },
+
   {
     name: "MySql",
     icon: mysql,
@@ -226,7 +219,7 @@ const projects = [
         color:"orange-text-gradient"
       },
     ],
-    image: feed,
+    image: RTC,
     source_code_link: "https://aniketsharma1732.github.io/Real-Time-Chat-App/",
   },
   {
@@ -251,7 +244,7 @@ const projects = [
         color: "orange-text-gradient" 
       },
     ],
-    image: gkeep,
+    image: AIHC,
     source_code_link: "https://sanjeevani-health-app.netlify.app/",
   },
   
