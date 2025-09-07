@@ -91,6 +91,7 @@ const Contact = () => {
 
 export default SectionWrapper(Contact, "contact");
 
+<<<<<<< HEAD
 
 /*
 5 DSA questions-5
@@ -104,3 +105,5 @@ when to resume applying
 2 projects with link
 portfolio link
 */
+=======
+>>>>>>> 24074a698277736f16c5d984c84553e24b01e266
