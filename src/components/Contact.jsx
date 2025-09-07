@@ -90,20 +90,3 @@ const Contact = () => {
 };
 
 export default SectionWrapper(Contact, "contact");
-
-<<<<<<< HEAD
-
-/*
-5 DSA questions-5
-2 hours web development-3
-portfolio fixed- 1 , paste link on resume 
-apply for the jobs -2 
-run that sanjeevini web app-4
-
-
-when to resume applying
-2 projects with link
-portfolio link
-*/
-=======
->>>>>>> 24074a698277736f16c5d984c84553e24b01e266
